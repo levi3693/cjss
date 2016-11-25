@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://bit.ly/2fL5Ula' width='500px'/><br/>Phương Viên cung cấp hàng cơ khí chĩnh hãng</a>. Phương Viên cung cấp cơ khí chính hãng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://www.phuongvien.com.vn/image/data/hand-tools/untitled-2.png' width='500px'/><br/>Phương Viên cung cấp hàng cơ khí chĩnh hãng</a>. Phương Viên cung cấp cơ khí chính hãng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
